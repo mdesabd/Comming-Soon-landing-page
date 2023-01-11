@@ -40,7 +40,7 @@ a:hover .fa-feed {background-color: #FF9900}
 
 
 
-
+   
 
 
 html, body{height: 100%;}
@@ -58,7 +58,12 @@ html, body{height: 100%;}
 .content_middel p{color: #fff; font-size: 20px; text-transform: uppercase;line-height: 1.3em}
 .form{width: 96%; max-width: 400px;margin: 10px auto}
 .form input[type="email"]{width: 75%; float: left;padding: 10px; font-size: 18px;background: #fff; border: 1px solid #ddd; border-radius: 25px 0 0 25px;padding-left: 20px;}
+
 .form input[type="submit"]{width: 25%; float: left;padding: 10px; font-size: 18px;background: #19A15F; border: 1px solid #19A15F; border-radius: 0 25px 25px 0;color: #fff; text-transform: uppercase;transition: 0.5s}
+
+.form button[type="submit"]{width: 25%; float: left;padding: 10px; font-size: 18px;background: #19A15F; border: 1px solid #19A15F; border-radius: 0 25px 25px 0;color: #fff; text-transform: uppercase;transition: 0.5s}
+
+
 .form input[type="submit"]:hover{background: #00AFF1; border: 1px solid #00AFF1;}
 .form form{margin-bottom:10px;overflow: hidden;}
 .socal_area{width: 100%; margin: 10px auto; overflow: hidden; color: #fff}
