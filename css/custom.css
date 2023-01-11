@@ -353,18 +353,27 @@ body {
 
 .content_middel h1 {
    font-family: 'Chela One', cursive;
-   color: #fff;
+   color: rgb(247, 121, 4);
+   font-size: 80px;
+   line-height: 1em;
+   margin-bottom: 10px;
+}
+
+.content_middel span {
+   font-family: 'Chela One', cursive;
+   color:   rgb(8, 10, 146);
    font-size: 80px;
    line-height: 1em;
    margin-bottom: 10px;
 }
 
 .content_middel h3 {
-   color: #fff;
-   font-size: 50px;
-   line-height: 1em;
+   color: rgb(253, 249, 249);
+   font-size: 60px;
+   font-weight: 900;
+   line-height: 1.2em;
    text-transform: uppercase;
-   margin-bottom: 10px;
+   margin-bottom: 5px;
 }
 
 .content_middel p {
@@ -409,7 +418,7 @@ body {
    float: left;
    padding: 10px;
    font-size: 18px;
-   background: #19A15F;
+   background:  rgb(8, 10, 146);
    border: 1px solid #19A15F;
    border-radius: 0 25px 25px 0;
    color: #fff;
